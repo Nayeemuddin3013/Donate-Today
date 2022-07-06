@@ -13,9 +13,25 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 
 }
 
 .white-color {
     color: lavender;
+
+}
+
+.click-box {
+    text-decoration: none;
+    background-image: linear-gradient(red, maroon);
+    font-weight: 600;
+    padding: 10px 40px;
+    color: wheat;
+    border-radius: 15px;
+}
+
+.click-box-center {
+    text-align: center;
+
 }

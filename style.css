@@ -4,6 +4,10 @@ body {
 
 }
 
+footer {
+    font-family: 'Abril Fatface', cursive;
+}
+
 .flexible-con {
     display: flex;
     width: 80%;
@@ -71,7 +75,15 @@ body {
 
 .half-width {
     width: 50%;
+    font-size: large;
+    padding: 5px;
+
 }
+
+.half-width img {
+    width: 100%;
+}
+
 
 .img-adjust {
     width: 60%;
@@ -104,4 +116,26 @@ footer {
     text-align: center;
     font-weight: 500;
     color: azure;
+}
+
+.paragraph {
+    font-size: small;
+    line-height: 80%;
+}
+
+#line-height {
+    line-height: 60%;
+}
+
+.rong {
+    background-color: azure;
+    color: aquamarine;
+}
+
+.orange {
+    background-color: tomato;
+}
+
+.peket {
+    border-radius: 105;
 }

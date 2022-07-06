@@ -1,5 +1,7 @@
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0;
+
 }
 
 .flexible-con {
@@ -69,4 +71,37 @@ body {
 
 .half-width {
     width: 50%;
+}
+
+.img-adjust {
+    width: 60%;
+    padding: 5px;
+    border: 5px 5px 5px skyblue;
+
+
+
+
+}
+
+#cup-small {
+    width: 40%;
+}
+
+#rokto {
+    background-color: cadetblue;
+}
+
+#kup {
+    background-color: lightblue;
+}
+
+#tv {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    font-weight: 500;
+    color: azure;
 }
